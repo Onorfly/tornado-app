@@ -1,6 +1,6 @@
 # tornado-app
 
-<pre>Using python and mysql, create a small web application that mimics the process of walking through a house and interacting with objects.
+Using python and mysql, create a small web application that mimics the process of walking through a house and interacting with objects.
 · The house is a collection of connected rooms.
 · Each room has 1 to N objects.
 · Users can move from room to room.
@@ -13,4 +13,4 @@
 For using tornado.
 Bonus marks for enabling multiple users (and still preserving state)
 — hint: authentication would be required (username / password).
-— hint: use of jquery where appropriate — and / or AJAX to improve user experience.</pre>
+— hint: use of jquery where appropriate — and / or AJAX to improve user experience.
